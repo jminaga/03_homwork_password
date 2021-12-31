@@ -1,8 +1,3 @@
-
-<br> A link the website https://jminaga.github.io/03_homwork_password/Develop/index.html </br>
-![](Img/readme.png)
-
-
 # Password Generator
 
 ## Description
