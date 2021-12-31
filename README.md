@@ -29,7 +29,7 @@ N/A
 
 ## Usage
 Webpage available here:
-https://jminaga.github.io/03_homwork_password/Develop/index.html
+https://jminaga.github.io/03_homwork_password/
 
 ## Screenshots
 ![screenshot](assets/images/screenshot.png)
